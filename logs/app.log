@@ -1,0 +1,24 @@
+2025-04-30 23:40:26,949 INFO NomadLivestockDemo [NomadLivestockDemo.main()] Application started
+2025-04-30 23:40:26,954 INFO Livestock [NomadLivestockDemo.main()] Created Livestock: name=Dorj, age=4
+2025-04-30 23:40:26,954 INFO Livestock [NomadLivestockDemo.main()] Created Livestock: name=Bataa, age=6
+2025-04-30 23:40:26,957 INFO Livestock [NomadLivestockDemo.main()] Created Livestock: name=Suhee, age=5
+2025-04-30 23:40:26,958 INFO Livestock [NomadLivestockDemo.main()] Created Livestock: name=Boldoo, age=3
+2025-04-30 23:40:26,959 INFO Livestock [NomadLivestockDemo.main()] Created Livestock: name=Idree, age=7
+2025-04-30 23:40:26,960 INFO Livestock [NomadLivestockDemo.main()] Dorj is grazing in the field.
+2025-04-30 23:40:26,960 INFO Livestock [NomadLivestockDemo.main()] Bataa is grazing in the field.
+2025-04-30 23:40:26,961 INFO Livestock [NomadLivestockDemo.main()] Suhee is grazing in the field.
+2025-04-30 23:40:26,961 INFO Livestock [NomadLivestockDemo.main()] Boldoo is grazing in the field.
+2025-04-30 23:40:26,961 INFO Livestock [NomadLivestockDemo.main()] Idree is grazing in the field.
+2025-04-30 23:40:26,966 INFO NomadLivestockDemo [NomadLivestockDemo.main()] Application finished
+2025-04-30 23:48:09,612 INFO NomadLivestockDemo [NomadLivestockDemo.main()] Programm ajillaj baina...
+2025-04-30 23:48:09,618 INFO Livestock [NomadLivestockDemo.main()] Shine torol nemegdlee: ner=Mori, nas=4
+2025-04-30 23:48:09,620 INFO Livestock [NomadLivestockDemo.main()] Shine torol nemegdlee: ner=Honi, nas=6
+2025-04-30 23:48:09,621 INFO Livestock [NomadLivestockDemo.main()] Shine torol nemegdlee: ner=Temee, nas=5
+2025-04-30 23:48:09,622 INFO Livestock [NomadLivestockDemo.main()] Shine torol nemegdlee: ner=Ymaa, nas=3
+2025-04-30 23:48:09,623 INFO Livestock [NomadLivestockDemo.main()] Shine torol nemegdlee: ner=Vher, nas=7
+2025-04-30 23:48:09,624 INFO Livestock [NomadLivestockDemo.main()] Mori haana bain ve?
+2025-04-30 23:48:09,624 INFO Livestock [NomadLivestockDemo.main()] Honi haana bain ve?
+2025-04-30 23:48:09,626 INFO Livestock [NomadLivestockDemo.main()] Temee haana bain ve?
+2025-04-30 23:48:09,627 INFO Livestock [NomadLivestockDemo.main()] Ymaa haana bain ve?
+2025-04-30 23:48:09,660 INFO Livestock [NomadLivestockDemo.main()] Vher haana bain ve?
+2025-04-30 23:48:09,662 INFO NomadLivestockDemo [NomadLivestockDemo.main()] Programm ajillaj duuslaa.
